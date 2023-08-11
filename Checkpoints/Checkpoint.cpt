@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/InsureMo/InsureMo Login Credentials Test Data</source-url>
+   </source-info>
+   <taken-date>2023-08-11T11:16:06.819</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "LowellJayVasquez",
+      "checked": true
+    },
+    {
+      "value": "E9OuqOhxBlzzE53PPoH0FA\u003d\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "KathieAnnJimenez",
+      "checked": true
+    },
+    {
+      "value": "a3k8XJTY7qf+2+P+PQ5USw\u003d\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "AngelaGilleran",
+      "checked": true
+    },
+    {
+      "value": "6Q1/g+4mN6PKHS9ndL/B0Q\u003d\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "maellaineronquillo",
+      "checked": true
+    },
+    {
+      "value": "T62yYySZkYx6gbTwQ69hAQ\u003d\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "TROOHO",
+      "checked": true
+    },
+    {
+      "value": "pN1UT4VURilxyQf9lnRmCQ\u003d\u003d",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

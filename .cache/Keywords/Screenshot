@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "8DE50398C3B4EC0E158EBD6CAD1280CC",
+  "keywordClasses": [
+    {
+      "name": "Screenshot",
+      "keywordMethods": [
+        {
+          "name": "takeWholePageScreenshot",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
