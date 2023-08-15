@@ -21,5 +21,7 @@ not_run: CucumberKW.runFeatureFile('Include/features/Login Module.feature')
 
 not_run: CucumberKW.runFeatureFolder('Include/features')
 
-CucumberKW.runFeatureFileWithTags('Include/features/Login Module.feature', ((['@valid', '@smoke']) as String[]))
+not_run: CucumberKW.runFeatureFileWithTags('Include/features/Login Module.feature', ((['@valid', '@smoke']) as String[]))
+
+CucumberKW.runWithCucumberRunner(CucumberRunner.class)
 
