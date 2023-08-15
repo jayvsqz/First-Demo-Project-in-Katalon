@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+not_run: CucumberKW.runFeatureFile('Include/features/Login Module.feature')
+
+not_run: CucumberKW.runFeatureFolder('Include/features')
+
+CucumberKW.runFeatureFileWithTags('Include/features/Login Module.feature', ((['@valid', '@smoke']) as String[]))
+
