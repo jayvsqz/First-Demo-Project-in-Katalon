@@ -5,16 +5,25 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>5440a22d-bf18-4b65-bba4-1d992afb1469</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c2ca2ab4-e1c4-4c5f-9d17-51ce0d481967</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/InsureMo/InsureMo Login Credentials Test Data</testDataId>
+   </testDataLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>c2ca2ab4-e1c4-4c5f-9d17-51ce0d481967</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
       <variableId>d3057fe6-989c-40d4-851a-42acd62803d9</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>c2ca2ab4-e1c4-4c5f-9d17-51ce0d481967</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
       <variableId>75994224-45a4-4744-a795-3cc4190efd9a</variableId>
    </variableLinks>
    <variable>
