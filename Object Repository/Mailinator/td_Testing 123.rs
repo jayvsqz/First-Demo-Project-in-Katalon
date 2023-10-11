@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Testing 123</name>
+   <tag></tag>
+   <elementGuidId>a2967fdc-02c1-4058-b9c3-ffff44a7a268</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//td[@onclick=&quot;showTheMessage('lvasquez-1693914327-24285870');&quot;])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                    ${EmailID}
+                ' or . = '
+                    ${EmailID}
+                ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1e208db7-864f-4c1c-b102-841e9e56bf06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>if (event.keyCode == 13) { showTheMessage('lvasquez-1693914327-24285870'); }</value>
+      <webElementGuid>8bbcb5ff-6881-4c65-81ca-bd52ab145f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showTheMessage('lvasquez-1693914327-24285870');</value>
+      <webElementGuid>92170b29-f248-4b5c-b588-08f433e91421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>fe6e5520-a506-40d2-b7f1-d548ed88b7ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    ${EmailID}
+                </value>
+      <webElementGuid>c8ba00e9-688c-4423-8530-1e26a9cfbf86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row_lvasquez-1693914327-24285870&quot;)/td[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>120deb32-361b-4f58-8003-64e60b307aa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//td[@onclick=&quot;showTheMessage('lvasquez-1693914327-24285870');&quot;])[2]</value>
+      <webElementGuid>d6c867d0-8f1a-49ea-87c2-8c6bef092244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='row_lvasquez-1693914327-24285870']/td[3]</value>
+      <webElementGuid>299ad42a-0829-4a23-b814-629ca087e6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lowell Jay Vasquez'])[1]/following::td[1]</value>
+      <webElementGuid>4414d1d4-4964-4f3f-8b85-babac7df4ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Received'])[2]/following::td[3]</value>
+      <webElementGuid>650f88cc-7461-45f9-be83-152196b5ee53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lowell Jay Vasquez'])[2]/preceding::td[3]</value>
+      <webElementGuid>2c071b1a-85fa-4ae2-a7f4-0d3f5c1b7537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Jay'])[1]/preceding::td[4]</value>
+      <webElementGuid>6a05f862-09d1-4a0a-ac81-60faa7a36af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Testing 123']/parent::*</value>
+      <webElementGuid>2e7e8815-fd9d-4640-b8dd-6bb2d61e8a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>95f8ac44-4a73-40a5-bdb2-f336e5f6d4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                    Testing 123
+                ' or . = '
+                    Testing 123
+                ')]</value>
+      <webElementGuid>ffed9f6c-be2b-4607-938a-90718d528d0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

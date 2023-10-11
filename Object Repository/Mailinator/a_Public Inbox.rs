@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Public Inbox</name>
+   <tag></tag>
+   <elementGuidId>f0561e22-9185-4688-8e83-be64ce3cd323</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.inbox-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='site-header']/div/div/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8af5da6e-07c5-4dd6-bd70-76e09f2b5695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inbox-link</value>
+      <webElementGuid>61cf56f9-b62f-40a1-9443-018d978e7d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mailinator.com/v4/public/inboxes.jsp</value>
+      <webElementGuid>86e31b37-1fb8-4596-9475-9196c7849ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Public Inbox</value>
+      <webElementGuid>b590f65b-9067-47bd-aa1d-dcf77d918fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;g5core-top-bar g5core-top-bar-desktop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;g5core-top-bar-inner&quot;]/div[@class=&quot;g5core-top-bar-right&quot;]/div[@class=&quot;g5core-top-bar-item g5core-tbi-custom-html-2&quot;]/a[@class=&quot;inbox-link&quot;]</value>
+      <webElementGuid>674dcd53-05de-407b-bf03-2048ba2b03ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='site-header']/div/div/div/div[2]/div/a</value>
+      <webElementGuid>283706d2-b1a4-4d87-b41d-7fbb2e7bf70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Public Inbox')]</value>
+      <webElementGuid>ab99ee1f-dbb6-43f9-a400-e746c0418eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO'])[1]/following::a[1]</value>
+      <webElementGuid>3010a43f-2c9b-4b66-a6c2-8a04d2de9022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Mailinator'])[1]/preceding::a[2]</value>
+      <webElementGuid>f2edfd5c-4a9b-4e31-bcec-cc294b3bb319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications/Solutions'])[1]/preceding::a[3]</value>
+      <webElementGuid>8acb1118-55db-4c93-8d2a-19aa809525f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Public Inbox']/parent::*</value>
+      <webElementGuid>34096df7-39ad-4749-a45b-38ba64fa3f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mailinator.com/v4/public/inboxes.jsp')]</value>
+      <webElementGuid>a8707486-1863-4190-9150-11ed7ac88059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>e4fe70c2-1c87-46ab-8fd1-72e035308952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mailinator.com/v4/public/inboxes.jsp' and (text() = 'Public Inbox' or . = 'Public Inbox')]</value>
+      <webElementGuid>979a990d-8244-46de-813e-c24f22a9dcaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
